@@ -1,4 +1,4 @@
-subject_id,fuptime,time_to_tb,time_to_death,time_to_end,tstart,tb,tb_lag,death,cd4_sqrt
+subject_id,fuptime,time_to_tb,time_to_death,time_to_end,tstart,tb,prev_tb,death,cd4_sqrt
 1,19,NA,1846,1846,0,0,0,0,22.81781291
 1,56,NA,1846,1846,19,0,0,0,22.65643678
 1,67,NA,1846,1846,56,0,0,0,22.6084601
