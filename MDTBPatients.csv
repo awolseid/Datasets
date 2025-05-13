@@ -1,0 +1,627 @@
+ID,Sex,Age,BMI,Mar_Stat,Residence,TB_History,Complication,Comorbidity,Smoking,Alcohol,HIV,Death
+1,Female,20,16.613266,Never married,Urban,No,No,No,No,No,Negative,Alive
+2,Female,33,17.03923,Married,Urban,No,No,Yes,No,No,Positive,Alive
+3,Female,22,30.818541,Married,Urban,No,No,No,No,No,Negative,Alive
+4,Female,38,25.099501,Married,Urban,Yes,No,No,No,No,Negative,Alive
+5,Female,20,18.359375,Never married,Rural,No,No,No,No,No,Negative,Alive
+6,Male,70,17.040329,Married,Urban,No,No,No,No,No,Negative,Alive
+7,Female,15,16.528925,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+8,Female,28,24.973986,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+9,Female,50,18.279421,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+10,Female,55,19.723866,Married,Urban,Yes,No,No,No,No,Negative,Alive
+11,Male,30,17.998163,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+12,Male,29,21.138855,Married,Urban,Yes,No,No,No,No,Negative,Alive
+13,Female,38,15.67347,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+14,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+15,Female,35,18.365473,Married,Urban,Yes,No,No,No,No,Negative,Alive
+16,Male,36,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+17,Female,24,22.600264,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+18,Female,22,16.227839,Never married,Urban,No,No,No,No,No,Negative,Alive
+19,Male,25,14.515895,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+20,Male,28,15.346939,Married,Urban,Yes,No,No,No,No,Negative,Alive
+21,Female,40,13.840831,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,No,Positive,Alive
+22,Female,30,16.955017,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+23,Female,28,26.5625,Married,Urban,Yes,No,No,No,No,Negative,Alive
+24,Female,25,16.014544,Married,Urban,Yes,No,No,No,No,Negative,Alive
+25,Female,18,20.3125,Never married,Urban,No,No,No,No,No,Negative,Alive
+26,Female,25,15.555555,Married,Urban,Yes,No,No,No,No,Negative,Alive
+27,Male,23,16.262976,Married,Urban,No,No,No,No,No,Negative,Alive
+28,Female,30,15.555555,Married,Urban,Yes,No,No,No,No,Negative,Alive
+29,Male,48,18.069727,Married,Urban,Yes,No,Yes,No,No,Negative,Alive
+30,Female,18,13.756693,Married,Urban,No,No,No,No,No,Negative,Alive
+31,Female,26,16.003658,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+32,Male,38,19.045073,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+33,Male,42,18.685122,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+34,Female,27,17.102915,"Other (divorced, widowed)",Urban,No,No,No,No,No,Negative,Alive
+35,Male,40,15.548945,Married,Urban,No,No,Yes,No,No,Negative,Alive
+36,Male,26,17.96875,Married,Rural,Yes,No,No,No,No,Negative,Alive
+37,Male,27,13.427203,Never married,Urban,Yes,No,No,Yes,No,Negative,Alive
+38,Female,46,35.055634,Never married,Urban,No,Yes,No,No,No,Negative,Alive
+39,Male,55,15.24169,Married,Urban,No,No,No,No,No,Negative,Alive
+40,Female,22,17.481791,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+41,Female,22,15.625,Married,Urban,Yes,No,No,No,No,Negative,Alive
+42,Female,38,16.866251,Married,Urban,No,No,Yes,No,No,Positive,Alive
+43,Female,25,16.896235,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+44,Female,33,19.909973,Married,Rural,No,No,No,No,No,Negative,Alive
+45,Male,40,12.940286,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+46,Female,20,16.135393,Married,Urban,Yes,No,No,No,No,Negative,Alive
+47,Female,23,14.586104,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+48,Female,30,20.504934,Married,Urban,Yes,No,Yes,Yes,Yes,Positive,Alive
+49,Female,24,18.178671,Married,Urban,Yes,No,No,No,No,Negative,Alive
+50,Female,30,12.855831,Never married,Rural,Yes,No,No,No,Yes,Negative,Alive
+51,Female,28,13.149244,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+52,Female,22,18.611496,Married,Urban,Yes,No,No,No,No,Negative,Alive
+53,Male,27,20.177149,Never married,Urban,Yes,No,No,No,Yes,Negative,Alive
+54,Female,30,24.998903,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+55,Female,35,15.059688,Married,Urban,Yes,No,No,No,No,Negative,Alive
+56,Female,26,14.325068,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+57,Female,26,19.555555,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+58,Female,26,16.35931,Married,Urban,No,No,Yes,No,No,Positive,Alive
+59,Male,45,23.624447,Married,Urban,Yes,No,Yes,No,No,Negative,Alive
+60,Male,42,18.685122,Married,Urban,No,No,Yes,No,No,Positive,Alive
+61,Female,29,19.486961,Never married,Urban,No,No,No,No,No,Negative,Alive
+62,Female,19,19.103939,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+63,Female,19,14.420766,Never married,Urban,No,Yes,No,No,No,Negative,Alive
+64,Female,19,14.09846,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+65,Female,27,13.223141,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+66,Male,20,21.971336,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+67,Female,25,17.689789,Never married,Urban,Yes,Yes,No,No,No,Negative,Alive
+68,Female,34,24.913494,Never married,Urban,No,No,No,No,No,Negative,Alive
+69,Female,20,20.93664,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+70,Male,18,11.869978,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+71,Male,23,18.75,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+72,Male,28,18.717546,Married,Urban,No,No,No,No,No,Negative,Alive
+73,Female,19,17.647058,Married,Urban,No,No,No,No,No,Negative,Alive
+74,Male,25,19.195303,"Other (divorced, widowed)",Urban,No,No,Yes,No,No,Positive,Alive
+75,Female,25,18.73049,Never married,Urban,No,No,No,No,No,Negative,Alive
+76,Female,29,14.821342,Married,Urban,Yes,Yes,No,No,No,Negative,Alive
+77,Male,48,20.244898,Married,Urban,Yes,No,No,No,Yes,Negative,Alive
+78,Male,27,16.613266,Never married,Urban,Yes,No,No,No,Yes,Negative,Alive
+79,Female,60,28.761869,Married,Urban,No,No,No,No,No,Negative,Alive
+80,Male,29,17.156261,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+81,Male,37,19.151585,Never married,Urban,Yes,No,No,Yes,Yes,Negative,Alive
+82,Female,35,14.860539,Married,Urban,No,No,No,No,No,Negative,Alive
+83,Female,19,18.974531,Never married,Urban,No,No,No,No,Yes,Negative,Alive
+84,Male,65,19.834711,Married,Urban,No,No,No,Yes,No,Negative,Alive
+85,Male,24,15.622619,Never married,Urban,No,No,No,No,No,Negative,Alive
+86,Female,24,12.855831,Never married,Urban,Yes,No,No,Yes,No,Negative,Alive
+87,Female,22,16.847469,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+89,Female,25,16.613266,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+90,Female,30,17.514631,Married,Urban,Yes,No,Yes,No,No,Positive,Alive
+91,Male,28,15.604587,Married,Urban,Yes,No,No,No,Yes,Negative,Alive
+92,Male,21,12.110726,Never married,Rural,Yes,Yes,No,No,No,Negative,Alive
+93,Male,48,14.693877,Never married,Urban,No,No,Yes,No,No,Positive,Alive
+94,Male,29,17.990152,Never married,Urban,No,No,No,No,No,Negative,Alive
+95,Male,45,15.021631,Married,Rural,Yes,Yes,Yes,No,No,Positive,Alive
+96,Male,75,19.003908,Married,Urban,Yes,No,No,No,No,Negative,Alive
+97,Female,24,23.337685,Married,Urban,Yes,Yes,No,No,No,Negative,Alive
+98,Male,34,16.141529,Married,Urban,Yes,No,No,No,No,Negative,Alive
+99,Female,18,16.184275,Married,Urban,Yes,No,No,No,No,Negative,Alive
+100,Male,18,19.571682,Married,Urban,No,No,No,No,No,Negative,Alive
+101,Male,20,14.833985,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+102,Female,15,16.528925,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+103,Female,28,24.973986,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+104,Female,50,18.279421,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+105,Female,55,19.723866,Married,Urban,Yes,No,No,No,No,Negative,Alive
+106,Male,30,17.998163,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+107,Male,29,21.138855,Married,Urban,Yes,No,No,No,No,Negative,Alive
+108,Female,38,15.67347,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+109,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+110,Female,35,18.365473,Married,Urban,Yes,No,No,No,No,Negative,Alive
+111,Male,36,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+112,Male,22,20.545694,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+113,Female,20,19.562956,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+114,Male,56,15.346939,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+115,Female,21,19.111111,Married,Urban,Yes,No,No,No,No,Negative,Alive
+116,Female,28,17.313019,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+117,Female,37,17.578125,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+119,Female,30,17.056177,Married,Urban,Yes,No,No,No,No,Negative,Alive
+120,Female,31,8.1165457,Never married,Urban,Yes,No,No,No,Yes,Negative,Alive
+121,Female,28,13.671875,Married,Urban,No,Yes,No,No,No,Negative,Alive
+122,Male,29,17.928215,Never married,Urban,No,No,No,Yes,Yes,Negative,Alive
+123,Male,57,23.011177,Married,Urban,Yes,Yes,No,Yes,No,Negative,Died
+124,Male,18,16.40625,Never married,Urban,Yes,Yes,No,No,No,Negative,Alive
+125,Male,30,17.17532,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+126,Male,25,12.855831,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+127,Female,19,19.140625,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+128,Male,47,20.987654,Married,Urban,Yes,No,No,No,No,Negative,Alive
+129,Female,58,21.529091,Married,Urban,Yes,No,No,No,No,Negative,Alive
+130,Female,23,21.777779,Married,Urban,Yes,No,No,No,No,Negative,Alive
+131,Female,18,17.419073,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+132,Female,35,14.692378,Married,Urban,Yes,No,No,No,No,Negative,Alive
+133,Female,25,15.67347,Never married,Urban,No,No,No,No,No,Negative,Alive
+134,Female,35,17.995241,Married,Urban,Yes,No,No,No,No,Negative,Alive
+135,Male,20,21.545092,Never married,Rural,No,No,No,No,No,Negative,Alive
+136,Male,31,17.632652,Married,Urban,No,No,No,No,No,Negative,Alive
+137,Male,28,18.556774,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+138,Female,35,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+139,Female,27,13.926004,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+140,Male,28,18.285715,Never married,Rural,No,No,No,No,No,Negative,Alive
+141,Male,46,16.186842,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+142,Female,38,15.794307,Married,Rural,No,No,No,No,Yes,Negative,Alive
+143,Female,30,18.49716,Married,Urban,No,No,No,Yes,Yes,Negative,Alive
+144,Female,20,18.49716,Married,Urban,Yes,No,No,Yes,Yes,Negative,Alive
+145,Male,29,15.818698,Never married,Urban,No,No,No,No,No,Negative,Alive
+146,Female,23,16.528925,Married,Urban,Yes,No,No,No,No,Negative,Alive
+147,Female,17,28.999308,Married,Urban,Yes,Yes,Yes,No,No,Negative,Alive
+148,Female,32,16.528925,Married,Urban,Yes,No,No,No,No,Negative,Alive
+149,Male,19,16.32653,Married,Rural,Yes,No,No,No,No,Negative,Alive
+150,Male,29,15.418265,Married,Urban,Yes,No,No,No,No,Negative,Alive
+151,Female,21,14.701137,Married,Urban,No,No,No,No,No,Negative,Alive
+152,Female,40,18.591036,Married,Urban,Yes,No,No,No,No,Negative,Alive
+153,Female,30,20.829996,Married,Urban,Yes,No,No,No,No,Negative,Alive
+154,Female,40,18.178671,Married,Urban,No,No,No,No,No,Negative,Alive
+155,Female,25,16.003658,Married,Urban,Yes,No,No,No,No,Negative,Alive
+156,Male,32,17.941816,Married,Urban,Yes,No,No,No,No,Negative,Alive
+157,Female,25,14.757969,Married,Urban,No,No,Yes,No,Yes,Positive,Alive
+158,Male,24,15.426997,Married,Urban,Yes,No,No,No,No,Negative,Alive
+159,Male,27,20.077335,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+161,Male,61,21.224489,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+162,Female,20,21.755468,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+163,Female,19,21.829952,Never married,Urban,No,No,No,No,No,Negative,Alive
+164,Female,40,19.377163,Married,Urban,No,No,No,No,No,Negative,Alive
+166,Female,23,17.360441,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+167,Female,25,15.817291,Married,Urban,Yes,No,No,No,No,Negative,Alive
+168,Male,43,15.755751,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+169,Male,26,17.998163,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+170,Female,47,13.319459,Married,Rural,Yes,No,No,No,No,Negative,Alive
+171,Female,22,18.73049,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+172,Female,23,21.077196,Married,Urban,No,No,No,No,No,Negative,Alive
+173,Female,30,24.464602,Never married,Rural,Yes,No,No,Yes,Yes,Negative,Alive
+174,Female,32,16.444593,Married,Urban,Yes,No,Yes,No,No,Positive,Alive
+175,Male,23,22.499638,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+176,Female,18,23.233456,Never married,Urban,No,No,No,No,No,Negative,Alive
+177,Male,17,17.099277,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+178,Female,29,22.481329,Never married,Rural,No,Yes,No,No,No,Negative,Alive
+179,Female,42,20.202021,Married,Urban,Yes,No,No,No,No,Negative,Alive
+180,Male,40,18.166204,Never married,Urban,No,No,No,No,No,Negative,Alive
+181,Male,40,17.959183,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+182,Male,38,23.011177,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+183,Female,21,21.227888,Married,Urban,Yes,No,No,No,No,Negative,Alive
+184,Female,30,19.024971,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+185,Female,22,13.154509,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+186,Female,27,13.984008,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+187,Male,23,18.442545,Married,Urban,Yes,No,No,No,No,Negative,Alive
+188,Female,30,16.852522,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+189,Male,22,17.360441,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+190,Female,30,16.423651,Married,Urban,Yes,No,Yes,No,No,Positive,Alive
+191,Female,60,17.578125,Married,Rural,Yes,No,No,No,No,Negative,Alive
+192,Female,34,19.17458,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+193,Female,22,18.424036,Married,Urban,Yes,No,No,No,No,Negative,Alive
+194,Female,27,17.301039,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+195,Male,40,20.549887,Married,Urban,Yes,No,No,No,No,Negative,Alive
+196,Female,26,14.568158,Married,Urban,Yes,No,No,No,No,Negative,Alive
+197,Female,19,17.313019,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+198,Female,35,17.630854,Never married,Urban,Yes,No,No,No,Yes,Negative,Alive
+199,Female,29,29.7442,Married,Urban,Yes,No,No,Yes,Yes,Negative,Alive
+200,Female,34,18.73049,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+201,Female,20,16.937033,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+202,Male,45,19.84127,Married,Urban,Yes,No,Yes,No,No,Negative,Alive
+203,Female,30,22.948116,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+204,Male,37,12.855831,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+205,Female,20,15.755751,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,No,Negative,Alive
+206,Female,29,18.132017,Never married,Urban,No,No,No,No,No,Negative,Alive
+207,Female,33,15.77683,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,No,Positive,Alive
+208,Female,25,21.71925,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,No,Positive,Alive
+209,Female,29,16.436554,Married,Urban,Yes,No,No,No,No,Negative,Alive
+210,Female,24,15.203814,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+211,Male,25,19.817677,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+212,Female,23,18.75,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+213,Male,26,17.783249,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+214,Female,22,18.903591,Married,Urban,Yes,No,No,No,No,Negative,Alive
+215,Female,22,18.82711,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+216,Female,18,17.96875,Never married,Urban,No,No,No,No,No,Negative,Alive
+217,Female,25,22.0741,Never married,Urban,No,No,No,No,No,Negative,Alive
+218,Male,25,17.283951,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+219,Male,39,15.967484,Married,Urban,No,No,No,No,No,Negative,Alive
+220,Female,21,18.467636,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+221,Female,25,14.4795,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+222,Female,24,16.02564,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+223,Male,35,16.32653,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+224,Female,33,19.607157,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+225,Male,33,23.951227,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+226,Male,29,16.59804,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+227,Male,40,20.452885,Married,Urban,Yes,No,Yes,No,No,Negative,Alive
+228,Male,46,21.453573,Married,Urban,Yes,No,Yes,No,No,Positive,Alive
+229,Male,35,20.3125,Never married,Urban,Yes,Yes,No,No,No,Negative,Alive
+230,Female,29,21.227888,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+231,Female,30,21.048048,Married,Urban,Yes,No,No,No,No,Negative,Alive
+232,Female,26,18.778345,Married,Urban,No,No,No,No,No,Negative,Alive
+233,Male,17,14.666667,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+234,Female,45,13.756693,Married,Urban,Yes,No,No,No,No,Negative,Alive
+236,Male,43,19.151192,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+237,Male,21,14.863258,Never married,Urban,Yes,No,Yes,No,No,Negative,Alive
+238,Female,35,26.57313,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,No,Positive,Alive
+239,Male,48,19.377163,Married,Urban,Yes,No,No,No,No,Negative,Alive
+240,Male,23,15.605006,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+241,Male,42,19.591837,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+242,Female,40,17.941816,Never married,Urban,No,No,No,No,No,Negative,Alive
+243,Male,23,17.056177,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+244,Male,27,23.233456,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+245,Male,32,15.241579,Married,Rural,Yes,Yes,No,No,No,Negative,Alive
+246,Male,38,13.520823,Never married,Rural,Yes,No,No,Yes,Yes,Negative,Alive
+247,Female,35,18.666666,Married,Urban,No,Yes,Yes,No,No,Positive,Alive
+248,Female,24,18.066168,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+250,Male,35,20.68515,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+251,Male,48,15.389351,Married,Rural,Yes,No,No,No,No,Negative,Alive
+252,Female,42,16.073322,Married,Urban,Yes,Yes,No,No,No,Negative,Alive
+253,Male,40,19.379198,Married,Urban,Yes,No,No,No,Yes,Negative,Alive
+254,Male,37,11.832623,Never married,Urban,No,No,No,No,No,Negative,Alive
+255,Male,57,21.258503,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+256,Male,39,19.379198,Never married,Urban,No,No,No,No,No,Negative,Alive
+257,Male,55,16.757294,Married,Urban,Yes,No,No,No,No,Negative,Alive
+258,Female,26,21.875,Married,Urban,Yes,No,No,No,No,Negative,Alive
+259,Male,40,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+260,Female,24,18.025957,Married,Urban,Yes,No,No,No,No,Negative,Alive
+261,Male,32,18.929152,Married,Urban,No,No,No,No,No,Negative,Alive
+262,Female,39,23.529411,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+263,Male,28,15.591466,Never married,Urban,No,No,No,No,No,Negative,Alive
+264,Male,43,25.711662,Married,Urban,Yes,No,No,No,No,Negative,Alive
+265,Male,26,18.645344,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+266,Male,44,16.049383,Never married,Urban,Yes,No,No,Yes,No,Positive,Alive
+267,Male,35,15.047365,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,No,Positive,Alive
+268,Male,35,20.752985,Married,Urban,Yes,No,No,Yes,No,Negative,Alive
+269,Female,25,21.367521,Never married,Urban,Yes,No,No,Yes,No,Negative,Alive
+270,Male,48,19.377163,Married,Urban,Yes,No,Yes,No,No,Positive,Alive
+271,Male,33,24.857954,Married,Urban,Yes,No,No,No,No,Negative,Alive
+272,Male,23,13.013087,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+273,Female,39,24.034611,Never married,Urban,No,No,No,No,No,Negative,Alive
+274,Female,37,20.576132,Married,Urban,Yes,No,No,No,No,Negative,Alive
+275,Female,40,14.515895,Never married,Urban,No,No,Yes,No,No,Positive,Alive
+276,Male,22,16.706205,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+277,Female,20,17.898024,Married,Rural,Yes,No,No,No,No,Negative,Alive
+278,Female,35,14.453125,Married,Urban,Yes,No,Yes,Yes,Yes,Positive,Alive
+279,Female,23,11.428572,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+280,Female,20,14.342572,Never married,Urban,Yes,No,Yes,No,No,Negative,Alive
+281,Female,22,16.436554,Never married,Rural,No,No,No,No,No,Negative,Alive
+282,Male,45,16.653061,Married,Urban,Yes,Yes,Yes,No,No,Negative,Alive
+283,Female,28,18.132017,Married,Urban,Yes,No,No,No,No,Negative,Alive
+284,Male,35,17.928215,Never married,Urban,No,No,Yes,No,No,Positive,Alive
+285,Male,36,17.99308,Never married,Urban,No,No,Yes,No,No,Negative,Alive
+286,Female,45,18.929152,Married,Urban,Yes,No,No,No,No,Negative,Alive
+287,Male,29,21.513859,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+288,Female,22,13.502565,Married,Urban,Yes,No,No,No,No,Negative,Alive
+289,Female,37,14.515895,Married,Urban,Yes,Yes,Yes,No,No,Positive,Alive
+290,Female,32,22.12225,Married,Urban,Yes,No,No,No,No,Negative,Alive
+291,Male,28,18.870663,Married,Urban,No,No,No,No,No,Negative,Alive
+292,Female,62,23.661438,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+293,Male,50,17.006804,Married,Urban,No,No,No,No,No,Negative,Alive
+294,Female,20,20.079601,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+295,Male,25,12.254473,Married,Urban,No,No,Yes,Yes,Yes,Positive,Died
+296,Female,28,20.519135,Married,Urban,Yes,No,No,No,No,Negative,Alive
+297,Male,35,16.955017,Married,Rural,Yes,No,No,No,No,Negative,Alive
+298,Male,26,15.794307,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+299,Female,21,20,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+300,Female,21,18.13122,Married,Urban,Yes,No,No,No,No,Negative,Alive
+301,Male,31,15.055495,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+302,Female,56,18.710949,Married,Urban,Yes,No,No,No,No,Negative,Alive
+303,Male,40,26.703623,Married,Urban,No,No,No,No,No,Negative,Alive
+304,Female,45,15.508307,Married,Rural,No,Yes,No,Yes,Yes,Negative,Died
+305,Male,45,18.685122,Married,Urban,No,Yes,Yes,No,No,Positive,Died
+306,Female,30,15.062326,Never married,Rural,No,Yes,Yes,No,No,Positive,Died
+307,Male,50,15.755751,Married,Rural,No,No,Yes,No,No,Negative,Died
+308,Female,24,15.426605,Never married,Urban,No,Yes,No,Yes,Yes,Negative,Died
+309,Male,40,21.410946,Married,Urban,No,Yes,No,Yes,Yes,Negative,Died
+310,Male,38,16.51473,Married,Rural,Yes,No,Yes,Yes,Yes,Positive,Died
+311,Male,34,15.794307,Married,Rural,No,Yes,Yes,No,No,Positive,Died
+312,Female,35,13.149244,Married,Urban,Yes,No,No,No,No,Negative,Died
+313,Female,24,16.649324,Married,Urban,No,Yes,Yes,Yes,Yes,Positive,Died
+314,Male,30,14.202752,Never married,Urban,No,Yes,Yes,No,Yes,Positive,Died
+315,Male,53,14.342572,"Other (divorced, widowed)",Urban,No,Yes,Yes,Yes,Yes,Positive,Died
+316,Male,17,12.400794,Never married,Urban,Yes,Yes,Yes,Yes,No,Positive,Died
+317,Male,25,14.172336,Married,Rural,No,Yes,No,No,No,Negative,Died
+318,Male,25,17.99308,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+319,Female,16,14.381986,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+320,Male,24,16.528925,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+321,Female,35,16.528925,Married,Urban,Yes,No,No,No,No,Negative,Alive
+322,Female,25,11.71875,Married,Urban,Yes,No,No,No,No,Negative,Alive
+323,Female,30,17.527817,Married,Rural,Yes,No,No,No,No,Negative,Alive
+324,Male,30,17.301039,Married,Urban,No,No,Yes,No,No,Positive,Alive
+325,Male,27,17.592592,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+326,Female,21,18.442545,Never married,Urban,No,No,No,No,No,Negative,Alive
+328,Male,33,21.383942,Married,Urban,Yes,No,No,No,No,Negative,Alive
+329,Male,46,16.415308,Married,Rural,No,No,No,No,No,Negative,Alive
+330,Male,80,17.283951,Married,Rural,Yes,No,No,No,No,Negative,Alive
+331,Female,22,13.560158,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+332,Male,29,17.577068,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+333,Male,38,23.148148,Married,Urban,No,No,No,No,No,Negative,Alive
+334,Male,19,18.359375,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+335,Female,38,13.669956,Married,Urban,No,No,No,No,No,Negative,Alive
+336,Male,38,14.527376,Married,Urban,Yes,No,No,No,No,Negative,Alive
+337,Male,30,17.258383,Married,Urban,Yes,No,No,No,No,Negative,Alive
+338,Female,15,16.528925,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+339,Female,28,24.973986,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+340,Female,50,18.279421,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+341,Female,55,19.723866,Married,Urban,Yes,No,No,No,No,Negative,Alive
+342,Male,30,17.998163,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+343,Male,29,21.138855,Married,Urban,Yes,No,No,No,No,Negative,Alive
+344,Female,38,15.67347,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+345,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+346,Female,35,18.365473,Married,Urban,Yes,No,No,No,No,Negative,Alive
+347,Male,36,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+348,Female,22,16.974653,Married,Urban,Yes,No,No,No,No,Negative,Alive
+349,Female,33,25.593737,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+350,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+351,Female,40,13.319459,Never married,Urban,No,Yes,Yes,No,No,Positive,Died
+352,Male,25,12.456747,Married,Urban,No,Yes,Yes,No,No,Positive,Died
+353,Female,18,14.951514,Never married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+354,Female,50,16.51473,Married,Urban,No,Yes,Yes,No,No,Positive,Died
+355,Male,35,12.400794,Never married,Urban,Yes,Yes,Yes,Yes,No,Positive,Died
+356,Male,33,18.194006,Never married,Urban,No,Yes,Yes,Yes,No,Negative,Died
+357,Female,55,12.855831,Married,Urban,No,No,Yes,No,No,Negative,Died
+358,Male,40,11.428572,Never married,Urban,Yes,No,Yes,No,No,Negative,Died
+359,Male,32,16.023073,Never married,Rural,Yes,Yes,Yes,No,No,Positive,Died
+360,Female,35,20.79673,Married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+361,Male,25,11.969495,Never married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+362,Male,41,14.09846,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,Yes,No,Positive,Died
+363,Male,38,17.527817,Married,Urban,Yes,Yes,Yes,Yes,No,Positive,Died
+364,Male,45,14.172336,Married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+365,Male,39,15.234375,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,Yes,Yes,Positive,Died
+366,Male,40,13.061225,Never married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+367,Male,40,16.224987,Married,Urban,No,Yes,Yes,No,No,Positive,Died
+368,Male,35,14.302382,Never married,Urban,No,No,Yes,Yes,No,Positive,Died
+369,Male,37,14.693877,Never married,Urban,Yes,Yes,No,Yes,Yes,Positive,Died
+370,Female,58,14.302382,Married,Urban,Yes,Yes,No,No,No,Negative,Died
+371,Female,20,12.908315,Never married,Urban,No,Yes,Yes,No,No,Negative,Died
+372,Male,85,12.400794,Married,Urban,No,Yes,Yes,Yes,No,Negative,Died
+373,Male,54,17.110022,Married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+374,Male,30,15.24169,"Other (divorced, widowed)",Urban,No,Yes,Yes,Yes,No,Positive,Died
+375,Female,64,13.888353,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,No,No,Negative,Died
+376,Female,30,12.54975,Married,Urban,No,Yes,Yes,No,No,Negative,Died
+377,Female,33,13.671875,Married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+378,Female,40,14.342572,Never married,Urban,No,Yes,Yes,No,No,Positive,Died
+379,Female,67,12.818459,Married,Urban,No,Yes,Yes,Yes,No,Negative,Died
+380,Male,31,19.151192,Never married,Urban,No,Yes,Yes,No,No,Negative,Died
+381,Male,40,14.705367,"Other (divorced, widowed)",Urban,No,Yes,Yes,No,No,Positive,Died
+383,Male,51,12.400794,Never married,Urban,Yes,Yes,Yes,Yes,No,Positive,Died
+384,Male,67,14.172336,Married,Urban,No,Yes,Yes,No,No,Positive,Died
+385,Male,26,15.210925,Married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+386,Female,27,13.844389,Married,Urban,Yes,No,Yes,Yes,No,Positive,Died
+387,Male,60,14.692378,Married,Urban,Yes,No,No,No,No,Negative,Died
+388,Male,44,11.694344,Never married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+389,Female,29,12.995452,Never married,Urban,Yes,No,No,No,No,Negative,Died
+390,Female,26,18.442545,Married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+391,Male,40,13.984008,Never married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+392,Female,35,15.047365,Married,Urban,Yes,No,Yes,Yes,No,Positive,Died
+393,Male,30,11.360219,Never married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+394,Female,15,13.692601,Never married,Urban,No,No,Yes,Yes,No,Positive,Died
+395,Male,22,13.654984,Never married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+396,Female,80,15.400624,Married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+397,Male,45,14.363394,"Other (divorced, widowed)",Rural,Yes,No,Yes,Yes,No,Positive,Died
+398,Male,27,15.67347,Never married,Urban,Yes,Yes,Yes,Yes,No,Positive,Died
+399,Male,48,19.377163,Married,Urban,Yes,No,No,No,No,Negative,Alive
+400,Male,23,15.605006,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+401,Male,42,19.591837,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+402,Female,40,17.941816,Never married,Urban,No,No,No,No,No,Negative,Alive
+403,Male,23,17.056177,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+404,Male,27,23.233456,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+405,Male,32,15.241579,Married,Rural,Yes,Yes,No,No,No,Negative,Alive
+406,Male,38,13.520823,Never married,Rural,Yes,No,No,Yes,Yes,Negative,Alive
+407,Female,35,18.666666,Married,Urban,No,Yes,Yes,No,No,Positive,Alive
+408,Female,24,18.066168,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+410,Female,15,16.528925,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+411,Female,28,24.973986,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+412,Female,50,18.279421,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+413,Female,55,19.723866,Married,Urban,Yes,No,No,No,No,Negative,Alive
+414,Male,30,17.998163,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+415,Male,29,21.138855,Married,Urban,Yes,No,No,No,No,Negative,Alive
+416,Female,38,15.67347,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+417,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+418,Female,35,18.365473,Married,Urban,Yes,No,No,No,No,Negative,Alive
+419,Male,36,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+420,Female,24,22.600264,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+421,Female,22,16.227839,Never married,Urban,No,No,No,No,No,Negative,Alive
+422,Male,25,14.515895,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+423,Male,28,15.346939,Married,Urban,Yes,No,No,No,No,Negative,Alive
+424,Female,40,13.840831,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,No,Positive,Alive
+425,Female,30,16.955017,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+426,Female,28,26.5625,Married,Urban,Yes,No,No,No,No,Negative,Alive
+427,Female,25,16.014544,Married,Urban,Yes,No,No,No,No,Negative,Alive
+428,Female,18,20.3125,Never married,Urban,No,No,No,No,No,Negative,Alive
+429,Female,25,15.555555,Married,Urban,Yes,No,No,No,No,Negative,Alive
+430,Male,23,16.262976,Married,Urban,No,No,No,No,No,Negative,Alive
+431,Female,30,15.555555,Married,Urban,Yes,No,No,No,No,Negative,Alive
+432,Male,48,18.069727,Married,Urban,Yes,No,Yes,No,No,Negative,Alive
+433,Female,18,13.756693,Married,Urban,No,No,No,No,No,Negative,Alive
+434,Female,26,16.003658,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+435,Male,38,19.045073,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+436,Male,42,18.685122,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+437,Female,27,17.102915,"Other (divorced, widowed)",Urban,No,No,No,No,No,Negative,Alive
+438,Male,40,15.548945,Married,Urban,No,No,Yes,No,No,Negative,Alive
+439,Male,26,17.96875,Married,Rural,Yes,No,No,No,No,Negative,Alive
+440,Male,27,13.427203,Never married,Urban,Yes,No,No,Yes,No,Negative,Alive
+441,Female,46,35.055634,Never married,Urban,No,Yes,No,No,No,Negative,Alive
+442,Male,55,15.24169,Married,Urban,No,No,No,No,No,Negative,Alive
+443,Female,22,17.481791,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+444,Female,22,15.625,Married,Urban,Yes,No,No,No,No,Negative,Alive
+445,Female,38,16.866251,Married,Urban,No,No,Yes,No,No,Positive,Alive
+446,Female,25,16.896235,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+447,Female,33,19.909973,Married,Rural,No,No,No,No,No,Negative,Alive
+448,Male,40,12.940286,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+449,Female,20,16.135393,Married,Urban,Yes,No,No,No,No,Negative,Alive
+450,Female,23,14.586104,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+451,Female,30,20.504934,Married,Urban,Yes,No,Yes,Yes,Yes,Positive,Alive
+452,Female,24,18.178671,Married,Urban,Yes,No,No,No,No,Negative,Alive
+453,Female,30,12.855831,Never married,Rural,Yes,No,No,No,Yes,Negative,Alive
+454,Female,28,13.149244,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+455,Female,22,18.611496,Married,Urban,Yes,No,No,No,No,Negative,Alive
+456,Female,19,19.140625,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+457,Male,47,20.987654,Married,Urban,Yes,No,No,No,No,Negative,Alive
+458,Female,58,21.529091,Married,Urban,Yes,No,No,No,No,Negative,Alive
+459,Female,23,21.777779,Married,Urban,Yes,No,No,No,No,Negative,Alive
+460,Female,18,17.419073,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+461,Female,35,14.692378,Married,Urban,Yes,No,No,No,No,Negative,Alive
+462,Female,25,15.67347,Never married,Urban,No,No,No,No,No,Negative,Alive
+463,Female,35,17.995241,Married,Urban,Yes,No,No,No,No,Negative,Alive
+464,Male,20,21.545092,Never married,Rural,No,No,No,No,No,Negative,Alive
+465,Male,31,17.632652,Married,Urban,No,No,No,No,No,Negative,Alive
+466,Male,28,18.556774,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+467,Female,35,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+468,Female,27,13.926004,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+469,Male,28,18.285715,Never married,Rural,No,No,No,No,No,Negative,Alive
+470,Male,46,16.186842,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+471,Female,38,15.794307,Married,Rural,No,No,No,No,Yes,Negative,Alive
+472,Female,30,18.49716,Married,Urban,No,No,No,Yes,Yes,Negative,Alive
+473,Female,20,18.49716,Married,Urban,Yes,No,No,Yes,No,Negative,Alive
+475,Male,33,21.383942,Married,Urban,Yes,No,No,No,No,Negative,Alive
+476,Male,46,16.415308,Married,Rural,No,No,Yes,No,No,Negative,Alive
+477,Male,80,17.283951,Married,Rural,Yes,No,No,No,No,Negative,Alive
+478,Female,22,13.560158,Never married,Urban,Yes,No,Yes,No,No,Negative,Alive
+479,Male,29,17.577068,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+480,Male,38,23.148148,Married,Urban,No,No,No,No,No,Negative,Alive
+481,Male,19,18.359375,Never married,Rural,Yes,Yes,No,No,No,Negative,Alive
+482,Female,38,13.669956,Married,Urban,No,No,No,No,No,Negative,Alive
+483,Male,38,14.527376,Married,Urban,Yes,Yes,No,No,No,Negative,Alive
+484,Male,30,17.258383,Married,Urban,Yes,Yes,No,Yes,Yes,Negative,Alive
+485,Female,15,16.528925,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+486,Female,28,24.973986,Never married,Urban,Yes,No,No,Yes,Yes,Negative,Alive
+487,Female,50,18.279421,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+488,Female,55,19.723866,Married,Urban,Yes,No,No,No,No,Negative,Alive
+489,Male,30,17.998163,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+490,Male,29,21.138855,Married,Urban,Yes,No,No,No,No,Negative,Alive
+491,Female,38,15.67347,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+492,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+493,Female,35,18.365473,Married,Urban,Yes,Yes,No,No,No,Negative,Alive
+494,Male,36,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+495,Female,22,16.974653,Married,Urban,Yes,No,No,Yes,No,Negative,Alive
+496,Female,33,25.593737,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+497,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,Yes,Negative,Alive
+498,Female,20,14.342572,Married,Urban,Yes,Yes,No,No,No,Negative,Died
+499,Female,58,15.426997,Married,Rural,Yes,Yes,Yes,No,No,Negative,Died
+500,Male,54,11.046585,Never married,Rural,Yes,Yes,Yes,No,No,Negative,Died
+501,Male,50,14.705367,Married,Rural,No,Yes,Yes,Yes,No,Negative,Died
+502,Female,39,19.312952,Married,Rural,No,Yes,Yes,Yes,No,Negative,Died
+503,Female,41,19.713322,"Other (divorced, widowed)",Rural,Yes,Yes,Yes,Yes,No,Negative,Died
+504,Male,52,19.84127,Married,Urban,Yes,Yes,Yes,Yes,No,Positive,Died
+505,Male,35,17.708576,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,Yes,Yes,Positive,Died
+506,Female,32,17.360441,Married,Urban,No,Yes,Yes,Yes,No,Negative,Died
+507,Female,30,14.605055,Married,Urban,No,Yes,No,Yes,No,Negative,Died
+508,Male,40,19.377163,Married,Rural,Yes,Yes,Yes,No,No,Negative,Died
+509,Female,37,14.381986,Never married,Rural,Yes,Yes,Yes,Yes,No,Positive,Died
+510,Male,48,15.959654,"Other (divorced, widowed)",Urban,No,Yes,Yes,Yes,No,Positive,Died
+511,Female,28,16.227839,Married,Urban,No,Yes,No,Yes,No,Negative,Died
+512,Male,72,15.822159,"Other (divorced, widowed)",Urban,No,Yes,No,Yes,No,Negative,Died
+513,Male,78,13.840831,Married,Urban,No,Yes,No,Yes,No,Negative,Died
+514,Male,60,14.500298,Married,Urban,No,Yes,Yes,No,No,Negative,Died
+515,Male,40,20.703125,Never married,Urban,No,Yes,Yes,No,No,Positive,Died
+516,Male,57,16.608997,Never married,Urban,Yes,Yes,No,Yes,No,Negative,Died
+517,Female,34,16.262976,Married,Urban,Yes,Yes,No,Yes,No,Negative,Died
+518,Male,70,17.040329,Married,Urban,No,No,No,No,No,Negative,Alive
+519,Female,15,16.528925,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+520,Female,28,24.973986,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+521,Female,50,18.279421,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+522,Female,55,19.723866,Married,Urban,Yes,No,No,No,No,Negative,Alive
+523,Male,30,17.998163,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+524,Male,29,21.138855,Married,Urban,Yes,No,No,No,No,Negative,Alive
+525,Female,38,15.67347,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+526,Male,42,20.281233,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+527,Female,35,18.365473,Married,Urban,Yes,No,No,No,No,Negative,Alive
+528,Male,36,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+529,Female,24,22.600264,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+530,Female,22,16.227839,Never married,Urban,No,No,No,No,No,Negative,Alive
+531,Male,25,14.515895,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+532,Male,28,15.346939,Married,Urban,Yes,No,No,No,No,Negative,Alive
+533,Female,40,13.840831,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,No,Positive,Alive
+534,Female,30,16.955017,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+535,Female,28,26.5625,Married,Urban,Yes,No,No,No,No,Negative,Alive
+536,Female,25,16.014544,Married,Urban,Yes,No,No,No,No,Negative,Alive
+537,Female,18,20.3125,Never married,Urban,No,No,No,No,No,Negative,Alive
+538,Female,25,15.555555,Married,Urban,Yes,No,No,No,No,Negative,Alive
+539,Male,23,16.262976,Married,Urban,No,No,No,No,No,Negative,Alive
+540,Female,30,15.555555,Married,Urban,Yes,No,No,No,No,Negative,Alive
+541,Male,48,18.069727,Married,Urban,Yes,No,Yes,No,No,Negative,Alive
+542,Female,18,13.756693,Married,Urban,No,No,No,No,No,Negative,Alive
+543,Female,26,16.003658,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+544,Male,38,19.045073,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+545,Male,42,18.685122,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+546,Female,27,17.102915,"Other (divorced, widowed)",Urban,No,No,No,No,No,Negative,Alive
+547,Male,40,15.548945,Married,Urban,No,No,Yes,No,No,Negative,Alive
+548,Male,26,17.96875,Married,Rural,Yes,No,No,No,No,Negative,Alive
+549,Male,27,13.427203,Never married,Urban,Yes,No,No,Yes,No,Negative,Alive
+550,Female,46,35.055634,Never married,Urban,No,Yes,No,No,No,Negative,Alive
+551,Male,55,15.24169,Married,Urban,No,No,No,No,No,Negative,Alive
+552,Female,22,17.481791,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+553,Female,22,15.625,Married,Urban,Yes,No,No,No,No,Negative,Alive
+554,Female,38,16.866251,Married,Urban,No,No,Yes,No,No,Positive,Alive
+555,Female,25,16.896235,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+556,Female,33,19.909973,Married,Rural,No,No,No,No,No,Negative,Alive
+557,Male,40,12.940286,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+558,Female,20,16.135393,Married,Urban,Yes,No,No,No,No,Negative,Alive
+559,Female,23,14.586104,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+560,Female,30,20.504934,Married,Urban,Yes,No,Yes,Yes,Yes,Positive,Alive
+561,Female,24,18.178671,Married,Urban,Yes,No,No,No,No,Negative,Alive
+562,Female,30,12.855831,Never married,Rural,Yes,No,No,No,Yes,Negative,Alive
+563,Female,28,13.149244,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+564,Female,22,18.611496,Married,Urban,Yes,No,No,No,No,Negative,Alive
+565,Male,27,20.177149,Never married,Urban,Yes,No,No,No,Yes,Negative,Alive
+566,Female,30,24.998903,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+567,Male,35,23.725286,Married,Urban,Yes,Yes,Yes,No,No,Positive,Died
+568,Male,18,17.96875,"Other (divorced, widowed)",Urban,Yes,Yes,No,Yes,Yes,Negative,Died
+569,Male,64,19.834711,"Other (divorced, widowed)",Urban,No,Yes,Yes,No,No,Negative,Died
+570,Male,29,18.365473,Married,Urban,No,Yes,Yes,Yes,Yes,Positive,Died
+571,Male,23,13.364964,Married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+572,Male,30,16.37208,Married,Urban,No,Yes,Yes,Yes,No,Positive,Died
+573,Male,38,14.878893,Married,Urban,No,Yes,Yes,No,No,Negative,Died
+574,Female,33,12.890625,Married,Urban,No,Yes,Yes,No,No,Negative,Died
+575,Female,22,12.855831,Never married,Urban,No,Yes,Yes,No,No,Negative,Died
+576,Female,40,14.342572,Never married,Urban,No,Yes,Yes,No,No,Positive,Died
+577,Female,25,14.4795,"Other (divorced, widowed)",Rural,Yes,No,No,No,No,Negative,Alive
+578,Female,24,16.02564,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+579,Male,35,16.32653,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+580,Female,33,19.607157,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+581,Male,33,23.951227,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+582,Male,29,16.59804,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+583,Male,40,20.452885,Married,Urban,Yes,No,Yes,No,No,Negative,Alive
+584,Male,46,21.453573,Married,Urban,Yes,No,Yes,No,No,Positive,Alive
+585,Male,35,20.3125,Never married,Urban,Yes,Yes,No,No,No,Negative,Alive
+586,Female,29,21.227888,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+587,Female,30,21.048048,Married,Urban,Yes,No,No,No,No,Negative,Alive
+588,Female,26,18.778345,Married,Urban,No,No,No,No,No,Negative,Alive
+589,Male,17,14.666667,Never married,Urban,Yes,No,Yes,No,No,Positive,Alive
+590,Female,45,13.756693,Married,Urban,Yes,No,No,No,No,Negative,Alive
+592,Male,43,19.151192,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+593,Male,21,14.863258,Never married,Urban,Yes,No,Yes,No,No,Negative,Alive
+594,Female,35,26.57313,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,No,Positive,Alive
+595,Male,48,19.377163,Married,Urban,Yes,No,No,No,No,Negative,Alive
+596,Male,23,15.605006,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+597,Male,42,19.591837,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+598,Female,40,17.941816,Never married,Urban,No,No,No,No,No,Negative,Alive
+599,Male,23,17.056177,Never married,Rural,Yes,No,No,No,No,Negative,Alive
+600,Male,27,23.233456,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+601,Male,32,15.241579,Married,Rural,Yes,Yes,No,No,No,Negative,Alive
+602,Male,38,13.520823,Never married,Rural,Yes,No,No,Yes,Yes,Negative,Alive
+603,Female,35,18.666666,Married,Urban,No,Yes,Yes,No,No,Positive,Alive
+604,Female,24,18.066168,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+606,Male,35,20.68515,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+607,Male,48,15.389351,Married,Rural,Yes,No,No,No,No,Negative,Alive
+608,Female,42,16.073322,Married,Urban,Yes,Yes,No,No,No,Negative,Alive
+609,Male,40,19.379198,Married,Urban,Yes,No,No,No,Yes,Negative,Alive
+610,Male,37,11.832623,Never married,Urban,No,No,No,No,No,Negative,Alive
+611,Male,57,21.258503,"Other (divorced, widowed)",Urban,Yes,No,No,No,No,Negative,Alive
+612,Male,39,19.379198,Never married,Urban,No,No,No,No,No,Negative,Alive
+613,Male,55,16.757294,Married,Urban,Yes,No,No,No,No,Negative,Alive
+614,Female,26,21.875,Married,Urban,Yes,No,No,No,No,Negative,Alive
+615,Male,40,19.53125,Married,Urban,Yes,No,No,No,No,Negative,Alive
+616,Female,24,18.025957,Married,Urban,Yes,No,No,No,No,Negative,Alive
+617,Male,32,18.929152,Married,Urban,No,No,No,No,No,Negative,Alive
+618,Female,39,23.529411,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+619,Male,28,15.591466,Never married,Urban,No,No,No,No,No,Negative,Alive
+620,Male,43,25.711662,Married,Urban,Yes,No,No,No,No,Negative,Alive
+621,Male,26,18.645344,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+622,Male,44,16.049383,Never married,Urban,Yes,No,No,Yes,No,Positive,Alive
+623,Male,35,15.047365,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,No,Positive,Alive
+624,Male,35,20.752985,Married,Urban,Yes,No,No,Yes,No,Negative,Alive
+625,Female,25,21.367521,Never married,Urban,Yes,No,No,Yes,No,Negative,Alive
+626,Male,48,19.377163,Married,Urban,Yes,No,Yes,No,No,Positive,Alive
+627,Male,33,24.857954,Married,Urban,Yes,No,No,No,No,Negative,Alive
+628,Male,23,13.013087,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+629,Female,39,24.034611,Never married,Urban,No,No,No,No,No,Negative,Alive
+630,Female,37,20.576132,Married,Urban,Yes,No,No,No,No,Negative,Alive
+631,Female,40,14.515895,Never married,Urban,No,No,Yes,No,No,Positive,Alive
+632,Male,22,16.706205,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+633,Female,20,17.898024,Married,Rural,Yes,No,No,No,No,Negative,Alive
+634,Female,35,14.453125,Married,Urban,Yes,No,Yes,Yes,Yes,Positive,Alive
+635,Female,23,11.428572,Never married,Urban,Yes,No,No,No,No,Negative,Alive
+636,Female,20,14.342572,Never married,Urban,Yes,No,Yes,No,No,Negative,Alive
+637,Female,22,16.436554,Never married,Rural,No,No,No,No,No,Negative,Alive
+638,Male,45,16.653061,Married,Urban,Yes,Yes,Yes,No,No,Negative,Alive
