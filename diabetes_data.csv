@@ -1,4 +1,4 @@
-ID,Residence,Age,Height,Sex,Chol,Stab_Glu,HDL,Ratio,Weight,Frame,SBP,DBP,Waist,Hip,Time_PPN,GlyHb
+ID,Residence,Age,Height,Sex,Chol,Stab_Glu,HDL,Ratio,Weight,Frame,SBP,DBP,Waist,Hip,Time_PPN,Diabetes
 1,Urban,46,62,Female,203,82,56,3.599999905,121,Medium,118,59,29,38,720,0
 2,Urban,29,64,Female,165,97,24,6.900000095,218,Large,112,68,46,48,360,0
 3,Urban,58,61,Female,228,92,37,6.199999809,256,Large,190,92,49,57,180,0
